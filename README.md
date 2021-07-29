@@ -1,4 +1,3 @@
-``
 
 **Deploy the sample app to the cluster.**
 
